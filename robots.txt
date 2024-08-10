@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fisonali.github.io/sitemap.html.gz
+Sitemap: https://fisonali.github.io/app/sitemap.html.gz
+Sitemap: https://fisonali.github.io/assets/sitemap.html.gz
+Sitemap: https://fisonali.github.io/css/sitemap.html.gz
+Sitemap: https://fisonali.github.io/includes/sitemap.html.gz
+Sitemap: https://fisonali.github.io/item/sitemap.html.gz
+Sitemap: https://fisonali.github.io/src/sitemap.html.gz
